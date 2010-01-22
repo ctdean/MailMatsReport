@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Mail Mats Report
+## Notes: Send a report via email of some of your stuff
+## Author: ctdean
+## Version: 0.1
+## SavedVariables: MailMatsReportDB
+embeds.xml
+MailMatsReport.lua
