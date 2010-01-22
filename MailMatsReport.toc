@@ -2,7 +2,7 @@
 ## Title: Mail Mats Report
 ## Notes: Send a report via email of some of your stuff
 ## Author: ctdean
-## Version: 0.1
+## Version: 1.0
 ## SavedVariables: MailMatsReportDB
 embeds.xml
 MailMatsReport.lua
